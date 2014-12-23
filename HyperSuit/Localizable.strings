@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Sokoban
+
+  Created by Sergey Petrov on 9/13/13.
+  Copyright (c) 2013 supudo.net. All rights reserved.
+*/
+
+"GameName" = "HyperSuit";
+
+"Store_NoItemsYet" = "No items yet.\nWe're working hard to make more levels!";
+"Store_ThankYou" = "Thank you for your purchase!\nEnjoy the game :)";
+"Store_FreeItem" = "Complimentary";
+"FacebookMessage" = "HyperSuit - get it while it's fresh @ {URL}!";
+"TwitterMessage" = "HyperSuit - get it while it's fresh @ {URL}! #hypersuit";
+"FacebookNoAccount" = "No Facebook account setup.\nPlease, configure your Settings.";
+"TwitterNoAccount" = "No Twitter account setup.\nPlease, configure your Settings.";
+
+"EndGame.Win" = "You won! Congratulations!";
+"EndGame.Lose" = "You lost!";
+"EndGame.PlayAgain" = "Play another one?";
+
+"UI.Loading" = "Loading...";
+"UI.Error" = "Error";
+"UI.Yes" = "Yes";
+"UI.No" = "No";
+"UI.OK" = "OK";
+"UI.Levels" = "levels";
+"UI.Close" = "Close";
+"UI.Store" = "Store";
+"UI.Restore" = "Restore";
+"UI.Buy" = "Buy";
+"UI.Undo" = "Undo";
+"UI.ErrorOccured" = "Error occured:\n%@";
+"UI.NoInternetError" = "Cannot connect to the Internet. Connect to the internet to establish a connection with GameCenter.";

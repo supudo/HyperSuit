@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GameScene doSpaceship:]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "spaceShip.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ParallaxNode randomizeNodePosition:]:ParallaxNode.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PixelSpaceship getHeight]:PixelSpaceship.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.yScale">
+            </PersistentString>
+            <PersistentString
+               value = "ship.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
